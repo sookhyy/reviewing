@@ -3,7 +3,6 @@
 ## 1. 자기소개
 
 이름: 윤숙현
-- 생년월일: 1999-12-08
 - email: sookhyuny12@gmail.com
 - Github: https://github.com/
 - Linkedin: https://www.linkedin.com/
